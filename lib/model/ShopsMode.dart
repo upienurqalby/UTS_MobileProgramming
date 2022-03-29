@@ -25,7 +25,7 @@ class ShopsModel {
       imgPath: 'assets/images/spaced.jpg',
       address: [
         // Alamat
-        'DOSS SUPERSTORE, Jl. Cideng Timur No.61, RT.3/RW.5, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160',
+        'Jl. Cideng Timur No.61, RT.3/RW.5, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160',
       ],
       menus: [
         //Alat untuk membuat
